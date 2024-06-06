@@ -10,7 +10,7 @@ I am Bilal Shafiq.I am Software developer with over 5 years of industry experien
 
 ## Projects
 
-### [Xpiree Application](https://app.xpiree.com/)
+### [Xpiree (Web & Mobile App)](https://app.xpiree.com/)
 XPIREE - Keep track of your documents.
 
 ### [ NPO Portal](https://npo.nust.edu.pk/#/home)

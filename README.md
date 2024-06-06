@@ -17,7 +17,7 @@ XPIREE - Keep track of your documents.
 Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (for National and International Industry Partners) with various modules Like Job ,Internship ,Recruitment Drive where company post jobs and student can apply.Implement and Integration NPO Portal with Alumni portal, NSTP portal, CMS, NRBA Application
 
 ### [ IMPACT Portal](https://impact.nust.edu.pk/#/login)
-Description of the project.
+Integrated Management System for Prospects & Accounts
 
 ### [Digital Signage](https://dsadmin.nust.edu.pk/)
 Digital Signage is the new trend. These cutting-edge communication networks allow you to create and deliver timely, targeted messages that inform, educate and motivate your audiences without your budget taking a painful hit, an important feature for you.

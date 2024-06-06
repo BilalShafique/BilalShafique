@@ -9,7 +9,7 @@ I am Bilal Shafiq.I am Software developer with over 5 years of industry experien
 - **Tools & Technologies**: Git, Visual Studio,VS Code,SQL Server,PostgreSQL,Firebase,SignalR...
 
 ## Projects
-### [Project Name](Link)
+### [ NUST PLACEMENT OFFICE (NPO) ](https://npo.nust.edu.pk/#/home)
 Description of the project.
 
 ### [Project Name](Link)

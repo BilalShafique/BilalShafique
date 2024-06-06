@@ -34,3 +34,5 @@ Online student admission portal for NSHS
 ## Get in Touch
 - Email: [bilal4arid@gmail.com](mailto:your-email@example.com)
 - LinkedIn: [https://www.linkedin.com/in/bilal-shafiq-99b23a14b/](https://linkedin.com/in/yourprofile)
+- Fiver: [https://www.fiverr.com/sbztech?up_rollout=true]
+- upwork: [https://www.upwork.com/freelancers/~012d019c70eaecd588?qpn-profile-completeness=education]

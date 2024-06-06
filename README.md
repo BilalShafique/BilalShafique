@@ -10,8 +10,8 @@ I am Bilal Shafiq.I am Software developer with over 5 years of industry experien
 
 ## Projects
 
-### [xpiree Application](https://app.xpiree.com/)
-Description of the project.
+### [Xpiree Application](https://app.xpiree.com/)
+XPIREE - Keep track of your documents.
 
 ### [ NPO Portal](https://npo.nust.edu.pk/#/home)
 Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (for National and International Industry Partners) with various modules Like Job ,Internship ,Recruitment Drive where company post jobs and student can apply.Implement and Integration NPO Portal with Alumni portal, NSTP portal, CMS, NRBA Application
@@ -20,9 +20,15 @@ Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (
 Description of the project.
 
 ### [Digital Signage](https://dsadmin.nust.edu.pk/)
+Digital Signage is the new trend. These cutting-edge communication networks allow you to create and deliver timely, targeted messages that inform, educate and motivate your audiences without your budget taking a painful hit, an important feature for you.
+
+### [PG Merit](http://beta.pgmerit.nust.edu.pk/login)
 Description of the project.
 
-### [Digital Signage](https://dsadmin.nust.edu.pk/)
+### [UG Merit](http://ugmerit.nust.edu.pk/login)
+Description of the project.
+
+### [NSHS Online Admission Portal](https://nshsadmission.nust.edu.pk/)
 Description of the project.
 
 ## Get in Touch

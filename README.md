@@ -16,6 +16,9 @@ XPIREE - Keep track of your documents.
 ### [ NPO Portal (Web & Mobile App)](https://npo.nust.edu.pk/#/home)
 Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (for National and International Industry Partners) with various modules Like Job ,Internship ,Recruitment Drive where company post jobs and student can apply.Implement and Integration NPO Portal with Alumni portal, NSTP portal, CMS, NRBA Application
 
+### [Alumni Portal (Web & Mobile App)](https://nshsadmission.nust.edu.pk/)
+Online student admission portal for NSHS
+
 ### [ IMPACT Portal](https://impact.nust.edu.pk/#/login)
 Integrated Management System for Prospects & Accounts
 
@@ -30,6 +33,8 @@ Automatic Generate Merit for UG applicanSt for all programs.
 
 ### [NSHS Online Admission Portal](https://nshsadmission.nust.edu.pk/)
 Online student admission portal for NSHS
+
+
 
 ## Get in Touch
 - Email: [bilal4arid@gmail.com](mailto:your-email@example.com)

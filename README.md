@@ -13,7 +13,7 @@ I am Bilal Shafiq.I am Software developer with over 5 years of industry experien
 ### [Xpiree (Web & Mobile App)](https://app.xpiree.com/)
 XPIREE - Keep track of your documents.
 
-### [ NPO Portal](https://npo.nust.edu.pk/#/home)
+### [ NPO Portal (Web & Mobile App)](https://npo.nust.edu.pk/#/home)
 Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (for National and International Industry Partners) with various modules Like Job ,Internship ,Recruitment Drive where company post jobs and student can apply.Implement and Integration NPO Portal with Alumni portal, NSTP portal, CMS, NRBA Application
 
 ### [ IMPACT Portal](https://impact.nust.edu.pk/#/login)

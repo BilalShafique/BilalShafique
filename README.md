@@ -9,13 +9,21 @@ I am Bilal Shafiq.I am Software developer with over 5 years of industry experien
 - **Tools & Technologies**: Git, Visual Studio,VS Code,SQL Server,PostgreSQL,Firebase,SignalR...
 
 ## Projects
-### [ NUST PLACEMENT OFFICE (NPO) ](https://npo.nust.edu.pk/#/home)
+
+### [xpiree Application](https://app.xpiree.com/)
 Description of the project.
 
-### [Project Name](Link)
+### [ NPO Portal](https://npo.nust.edu.pk/#/home)
+Design and develop NUST PLACEMENT OFFICE (NPO) portal https://npo.nust.edu.pk/ (for National and International Industry Partners) with various modules Like Job ,Internship ,Recruitment Drive where company post jobs and student can apply.Implement and Integration NPO Portal with Alumni portal, NSTP portal, CMS, NRBA Application
+
+### [ IMPACT Portal](https://impact.nust.edu.pk/#/login)
 Description of the project.
 
+### [Digital Signage](https://dsadmin.nust.edu.pk/)
+Description of the project.
 
+### [Digital Signage](https://dsadmin.nust.edu.pk/)
+Description of the project.
 
 ## Get in Touch
 - Email: [bilal4arid@gmail.com](mailto:your-email@example.com)

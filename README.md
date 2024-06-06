@@ -19,6 +19,5 @@ Description of the project.
 - [Repository Name](Link) - Contribution description.
 
 ## Get in Touch
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+- Email: [bilal4arid@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/bilal-shafiq-99b23a14b/](https://linkedin.com/in/yourprofile)

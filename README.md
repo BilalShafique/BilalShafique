@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm [Your Name], a [Your Profession] who loves [Your Interests].
+
+I am Bilal Shafiq.I am Software developer with over 5 years of industry experience as well as i am develope mobiles. Learning new things is a passion of mine, and I enjoy exploring new technologies and approaches in my spare time.
 
 ## Skills
-- **Languages**: Python, JavaScript, ...
-- **Frameworks**: React, Django, ...
-- **Tools**: Git, Docker, ...
+- **Languages**: C#, JavaScript,Dart ...
+- **Frameworks**: .NET, .NET CORE,Flutter,angular,React,Node, ...
+- **Tools & Technologies**: Git, Visual Studio,VS Code,SQL Server,PostgreSQL,Firebase,SignalR...
 
 ## Projects
 ### [Project Name](Link)
@@ -14,9 +15,7 @@ Description of the project.
 ### [Project Name](Link)
 Description of the project.
 
-## Open Source Contributions
-- [Repository Name](Link) - Contribution description.
-- [Repository Name](Link) - Contribution description.
+
 
 ## Get in Touch
 - Email: [bilal4arid@gmail.com](mailto:your-email@example.com)

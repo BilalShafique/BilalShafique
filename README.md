@@ -23,13 +23,13 @@ Description of the project.
 Digital Signage is the new trend. These cutting-edge communication networks allow you to create and deliver timely, targeted messages that inform, educate and motivate your audiences without your budget taking a painful hit, an important feature for you.
 
 ### [PG Merit](http://beta.pgmerit.nust.edu.pk/login)
-Description of the project.
+Automatic Generate Merit for PG applicantS for all programs.
 
 ### [UG Merit](http://ugmerit.nust.edu.pk/login)
-Description of the project.
+Automatic Generate Merit for UG applicanSt for all programs.
 
 ### [NSHS Online Admission Portal](https://nshsadmission.nust.edu.pk/)
-Description of the project.
+Online student admission portal for NSHS
 
 ## Get in Touch
 - Email: [bilal4arid@gmail.com](mailto:your-email@example.com)
